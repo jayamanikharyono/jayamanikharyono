@@ -46,10 +46,10 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and build things.
 
-- 👯 I’m looking to collaborate on any open source project, expecially on projects that can help fellows DE around the Globe.
+- 👯  I’m looking to collaborate on any open source project, expecially on projects that can help fellows DE around the Globe.
 
-- :mailbox:How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-jayamanikharyono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayamanikharyono/) 
-[![Gmail Badge](https://img.shields.io/badge/-jayaharyonomanik@gmail.com-grey?style=flat&logo=Gmail&logoColor=white)](jayaharyonomanik@gmail.com)
+- :mailbox: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-jayamanikharyono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayamanikharyono/) 
+[![Gmail Badge](https://img.shields.io/badge/-jayaharyonomanik@gmail.com-grey?style=flat&logo=Gmail&logoColor=white)](mailto:jayaharyonomanik@gmail.com?subject=[GitHub])
 
 ---
 
