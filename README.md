@@ -55,7 +55,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayamanikharyono&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayamanikharyono&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayamanikharyono&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
