@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jayamanikharyono/jayamanikharyono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +22,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/jayamanik16">
+    <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://twitter.com/jayamanik16">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -30,28 +32,34 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=jayamanikharyono&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+### Hi there 👋
+
+---
+
+### :woman_technologist: About Me :
 
 I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I’m working as a Data Engineer and contributing (via words and codes) to data engineering related applications.
+- :telescope: I’m working as a Data Engineer @Tiket.com and contributing (via words and codes) to data engineering related things.
 
 - :seedling: Exploring Technical Content Writing and Data Engineering Related Tech.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and build things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jayamanikharyono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayamanikharyono/)
+- 👯 I’m looking to collaborate on any open source project, expecially on projects that can help fellows DE around the Globe.
+
+- :mailbox:How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-jayamanikharyono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayamanikharyono/) 
+[![Gmail Badge](https://img.shields.io/badge/-jayaharyonomanik@gmail.com-grey?style=flat&logo=Gmail&logoColor=white)](jayaharyonomanik@gmail.com)
 
 ---
 
 ### :fire: My Stats :
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayamanikharyono&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayamanikharyono&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayamanikharyono&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayamanikharyono&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
