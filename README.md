@@ -66,6 +66,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Why investing in The US Stock Market is actually ideal for Me](https://jayaharyonomanik.medium.com/why-investing-in-the-us-stock-market-is-actually-ideal-for-me-cce0afdaa1f3?source=rss-2c8a2496b272------2)
 - [A simple way to Validate your Airflow DAGs on Pull Request](https://faun.pub/a-simple-way-to-validate-your-airflow-dags-upon-pull-request-1b25f19dd496?source=rss-2c8a2496b272------2)
 - [CICD your Tableau Dashboard with Github Actions](https://medium.easyread.co/cicd-your-tableau-dashboard-with-github-actions-4fe2d336f0be?source=rss-2c8a2496b272------2)
 - [How I do DBT &lpar;data build tools&rpar;](https://medium.easyread.co/how-i-do-dbt-data-build-tools-3324807d9ff2?source=rss-2c8a2496b272------2)
