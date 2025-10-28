@@ -72,4 +72,14 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - [How I do DBT &lpar;data build tools&rpar;](https://medium.easyread.co/how-i-do-dbt-data-build-tools-3324807d9ff2?source=rss-2c8a2496b272------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### 🌍 Open Source Contributions :
+
+<div align="left">
+  <a href="https://github.com/actions-able/awesome-actions">
+    <img src="https://img.shields.io/badge/actions--able-awesome--actions-blue?style=for-the-badge&logo=github" alt="Awesome Actions Badge"/>
+  </a>
+  <p>Contributed new GitHub Actions resources and improvements to the Awesome Actions list.</p>
+</div>
 
